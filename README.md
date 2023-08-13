@@ -25,4 +25,4 @@
   
 </div>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E6B0AA&height=80&section=footer"/>
