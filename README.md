@@ -1,10 +1,10 @@
 # Olá, sejam muito bem-vindos! 🫂
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E6B0AA&height=80&section=header"/>
 
-##### Me chamo Julia Noronha, sou mãe de duas crianças, amo estudar e ler livros com assuntos diversos. Tenho 27 anos e estou fazendo graduação de Sistemas da Informação na Universidade CEUMA. Para agregar conhecimento, participo de cursos e bootcamps, afim de me capacitar mais e mais.
+##### Me chamo Julia Noronha, sou mãe de duas crianças, amo estudar e ler livros com assuntos diversos. Tenho 27 anos e me mudei recentemente para São Paulo, para poder ter acesso a cursos presenciais da área de ti. Hoje faço um curso com 6 meses de duração de Desenvolvimento WEB pelo CATE SP e Banco de Dados com duração de 2 meses pelo SENAC SP. 
 
 * 🛠️ Hoje estou a procura de estágio
-* 🌱 Estudando Python e Java
+* 🌱 Estudando HTML, CSS e JavaScript
 * 😊 Pronomes: ela/dela
 
 <div style="display: inline_block"><br>
