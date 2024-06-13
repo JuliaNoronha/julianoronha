@@ -1,7 +1,7 @@
 # Olá, sejam muito bem-vindos! 🫂
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E6B0AA&height=80&section=header"/>
 
-##### Me chamo Julia Noronha, sou mãe de duas crianças, amo estudar e ler livros com assuntos diversos. Tenho 27 anos e me mudei recentemente para São Paulo, para poder ter acesso a cursos presenciais da área de ti. Hoje faço um curso com 6 meses de duração de Desenvolvimento WEB pelo CATE SP e Banco de Dados com duração de 2 meses pelo SENAC SP. 
+##### Me chamo Julia Noronha, sou mãe de duas crianças, amo estudar e ler livros com assuntos diversos. Tenho 28 anos e me mudei recentemente para São Paulo, para poder ter acesso a cursos presenciais da área de ti. Hoje estou cursando a graduação de Engenharia de Software no Gran Faculdade. 
 
 * 🛠️ Hoje estou a procura de estágio
 * 🌱 Estudando HTML, CSS e JavaScript
