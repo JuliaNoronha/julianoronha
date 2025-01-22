@@ -1,10 +1,9 @@
 # Olá, sejam muito bem-vindos! 🫂
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E6B0AA&height=80&section=header"/>
 
-##### Me chamo Julia Noronha, sou mãe de duas crianças, amo estudar e ler livros com assuntos diversos. Tenho 28 anos e me mudei recentemente para São Paulo, para poder ter acesso a cursos presenciais da área de ti. Hoje estou cursando a graduação de Engenharia de Software no Gran Faculdade. 
+##### Me chamo Julia Noronha, sou mãe de duas crianças, amo estudar e ler livros com assuntos diversos. Tenho 28 anos, maranhense que mora em São Paulo, para poder ter acesso a cursos presenciais da área de ti. Hoje estou cursando a graduação de Engenharia de Software no Gran Faculdade e estagio em desenvolvimento back end Java na GFT Technologies.
 
-* 🛠️ Hoje estou a procura de estágio
-* 🌱 Estudando HTML, CSS e JavaScript
+* 🌱 Estudando Java, MySQL, Postman
 * 😊 Pronomes: ela/dela
 
 <div style="display: inline_block"><br>
