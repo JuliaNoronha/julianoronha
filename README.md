@@ -3,7 +3,7 @@
 
 ##### Me chamo Julia Noronha, sou mãe de duas crianças, amo estudar e ler livros com assuntos diversos. Tenho 28 anos, maranhense que mora em São Paulo, para poder ter acesso a cursos presenciais da área de ti. Hoje estou cursando a graduação de Engenharia de Software no Gran Faculdade e estagio em desenvolvimento back end Java na GFT Technologies.
 
-* 🌱 Estudando Java, MySQL, Postman
+* 🌱 Estudando Java, MySQL, Docker, Postman
 * 😊 Pronomes: ela/dela
 
 <div style="display: inline_block"><br>
