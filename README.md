@@ -18,13 +18,13 @@ Além da tecnologia, sou uma grande entusiasta da leitura e do aprendizado cont�
 
 🚀 O que estou estudando?
 
-[] Atualmente, estou aprofundando meus conhecimentos em:
+ Atualmente, estou aprofundando meus conhecimentos em:
 
-[] Arquitetura de Software
+- Arquitetura de Software
 
-[] Microsserviços
+- Microsserviços
 
-[] Boas práticas no desenvolvimento backend
+- Boas práticas no desenvolvimento backend
 
 🌍 Onde me encontrar?
 
